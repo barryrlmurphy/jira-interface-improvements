@@ -1,12 +1,14 @@
+# Jira Interface Improvements - Chrome Extension
+
 Jira is a great tool for issue and project tracking but sometimes the interface can be frustrating. This extension includes various modifications to improve the usability and visibility of Jira interfaces.
 
+* Please checkout and create a pull request if you would like to improve the extension further.
+
 version 0.1 (April 2017) includes :
-- Horizontal scroll for Kanban Boards
-- Horizontal scroll for Board Settings -> Columns screen
+* Horizontal scroll for Kanban Boards
+* Horizontal scroll for Board Settings -> Columns screen
 
-Icons made by Prosymbols (http://www.flaticon.com/authors/prosymbols) from www.flaticon.com.
-
-Useful links:
+Useful Chrome Extension Development links:
 chrome extensions overview
 * https://developer.chrome.com/extensions/overview
 
