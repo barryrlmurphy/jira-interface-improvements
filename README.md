@@ -2,6 +2,8 @@
 
 Jira is a great tool for issue and project tracking but sometimes the interface can be frustrating. This extension includes various modifications to improve the usability and visibility of Jira interfaces.
 
+https://chrome.google.com/webstore/detail/jira-interface-improvemen/mmbhfikppdnhffajifihnlcffjflffok?authuser=1
+
 * Please checkout and create a pull request if you would like to improve the extension further.
 
 version 0.1 (April 2017) includes :
