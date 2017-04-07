@@ -3,10 +3,15 @@
 
   "name": "Jira Interface Improvements",
   "description": "Some simple interface improvements for Jira",
-  "version": "0.1.1",
+  "version": "0.1.2",
 
   "browser_action": {
-   "default_icon": "icon.png"
+   "default_icon": "icon.png",
+  },
+
+  "options_ui": {
+    "page": "options.html",
+    "chrome_style": true
   },
 
   "content_scripts": [
