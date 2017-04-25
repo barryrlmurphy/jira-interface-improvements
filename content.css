@@ -13,3 +13,9 @@
 #ghx-mapping {
   width: 3000px !important;
 }
+
+/* story detail view coulmn */
+#ghx-detail-view {
+  width: 600px !important;
+  width: 50vw !important;
+}

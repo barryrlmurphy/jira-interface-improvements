@@ -6,13 +6,17 @@ https://chrome.google.com/webstore/detail/jira-interface-improvemen/mmbhfikppdnh
 
 * Please checkout and create a pull request if you would like to improve the extension further.
 
-version 0.1 (April 2017) includes :
-* Horizontal scroll for Kanban Boards
-* Horizontal scroll for Board Settings -> Columns screen
-
 Useful Chrome Extension Development links:
 chrome extensions overview
 * https://developer.chrome.com/extensions/overview
 
 content scripts
 * https://developer.chrome.com/extensions/content_scripts
+
+# Release Notes:
+version 0.1 (April 2017) includes :
+* Horizontal scroll for Kanban Boards
+* Horizontal scroll for Board Settings -> Columns screen
+
+version 0.1.2 (April 2017):
+* Detail View takes up 1/2 of screen (default is 400px)
