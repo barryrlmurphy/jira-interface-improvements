@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>Jonathan Beebe</string>
+	<key>Builder Version</key>
+	<string>12603.1.30.0.34</string>
+	<key>CFBundleDisplayName</key>
+	<string>Jira Interface Improvements</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.jira-interface-improvements.jirainterfaceimprovements</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>Content</key>
+	<dict>
+		<key>Stylesheets</key>
+		<array>
+			<string>content.css</string>
+		</array>
+	</dict>
+	<key>Description</key>
+	<string>Improve JIRA</string>
+	<key>DeveloperIdentifier</key>
+	<string>T88LXU5DBG</string>
+	<key>ExtensionInfoDictionaryVersion</key>
+	<string>1.0</string>
+	<key>Permissions</key>
+	<dict>
+		<key>Website Access</key>
+		<dict>
+			<key>Include Secure Pages</key>
+			<true/>
+			<key>Level</key>
+			<string>All</string>
+		</dict>
+	</dict>
+	<key>Website</key>
+	<string>https://github.com/barryrlmurphy/jira-interface-improvements</string>
+</dict>
+</plist>
