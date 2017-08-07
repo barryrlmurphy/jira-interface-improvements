@@ -1,0 +1,21 @@
+/* horizontal scroll on kanban boards */
+#ghx-pool-column {
+  overflow-y: hidden;
+}
+#ghx-pool {
+  width: 2000px;
+}
+
+/* horizontal scroll on board settings -> columns option */
+.ghx-page-panel-content-item {
+  overflow-y: hidden;
+}
+#ghx-mapping {
+  width: 3000px !important;
+}
+
+/* story detail view coulmn */
+#ghx-detail-view {
+  width: 600px !important;
+  width: 50vw !important;
+}
